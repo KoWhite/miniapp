@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/posts/post",
+    "pages/posts/post-detail/post-detail"
+
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#d22222",
+    "navigationBarTitleText": "MyBlog",
+    "navigationBarTextStyle":"black"
+  }
+}
